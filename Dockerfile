@@ -8,6 +8,5 @@ RUN apt-get update -y \
         curl \
         net-tools \
         dnsutils \
-        mailutils \
         swaks \
         mysql-client
